@@ -413,12 +413,12 @@ result_images/Sami1880s.jpg
 result_images/Scotland1919.jpg
 result_images/SenecaNative1908.jpg
 result_images/TitanicGym.jpg
+result_images/ColorBenchmarkFID
+models
+
 fasterai/fastai
-.ipynb_checkpoints/ SuperResolutionVisualization-checkpoint.ipynb
-.ipynb_checkpoints/SuperResolutionTraining-checkpoint.ipynb
-.ipynb_checkpoints/SuperResolutionTraining2-checkpoint.ipynb
-fasterai/.ipynb_checkpoints/generators-checkpoint.py
-fasterai/.ipynb_checkpoints/modules-checkpoint.py
+.ipynb_checkpoints
+fasterai/.ipynb_checkpoints
 result_images/.ipynb_checkpoints/ILSVRC2012_test_00000002-checkpoint.JPEG
 superres/result_images/ILSVRC2012_test_00000643.JPEG
 superres/result_images/Siamese_178.jpg
@@ -483,3 +483,4 @@ superres_crit_pretrain.h5
 superres_gen_pretrain.h5
 test_images/Andy.jpg
 *.prof
+.ipynb_checkpoints/ColorFIDBenchmark-checkpoint.ipynb
